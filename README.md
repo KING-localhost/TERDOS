@@ -9,4 +9,3 @@ python3 DDOS.py -h
 DEGOCOIN >>> D9kZfcHbqkNVs5pv8s1BG1T5VdLtf3JCwk
 
 # ROOM EDUCATION
-https://chat.whatsapp.com/JGnX6PhLrL8H6AfNoerLBC
