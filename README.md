@@ -1,7 +1,26 @@
 
 # USAGE
+$ apt update && apt upgrade
 
-python3 DDOS.py -h
+$ pkg install python
+
+$ pkg install python3
+
+$ pkg install wget
+
+$ pkg install unzip
+
+$ pkg install php
+
+$ pkg install curl
+
+$ pkg install openssh
+
+$ pkg install ruby
+
+$ gem install lolcat
+
+$ python3 DDOS.py -h
 
 # CONTACT ME
 <a href="https://wa.me/+13474742185?text=Hallo"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
