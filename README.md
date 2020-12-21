@@ -20,6 +20,10 @@ $ pkg install ruby
 
 $ gem install lolcat
 
+$ git clone https://github.com/KING-localhost/TERDOS.git
+
+$ cd TERDOS
+
 $ python3 DDOS.py -h
 
 # CONTACT ME
